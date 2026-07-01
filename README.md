@@ -72,8 +72,8 @@ AI chatbot that helps students with academic queries, using RAG architecture to 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mohamedkassim786&show_icons=true&theme=default&hide_border=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamedkassim786&layout=compact&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mohamedkassim786&show_icons=true&theme=default&hide_border=true&cache_seconds=1800"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamedkassim786&layout=compact&hide_border=true&cache_seconds=1800"/>
 </p>
 
 ---
