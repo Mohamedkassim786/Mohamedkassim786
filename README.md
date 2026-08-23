@@ -94,12 +94,13 @@
 
 ---
 
-### 📊 GitHub Stats
+📊 GitHub Activity
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mohamedkassim786&show_icons=true&theme=default&hide_border=true&cache_seconds=1800"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamedkassim786&layout=compact&hide_border=true&cache_seconds=1800"/>
-</p>
+Instead of using unreliable third-party statistics images, this profile focuses on real project work and GitHub's native contribution activity.
+
+<p align="center"> <img src="https://img.shields.io/github/followers/Mohamedkassim786?label=Followers&style=for-the-badge&logo=github" /> <img src="https://img.shields.io/github/stars/Mohamedkassim786?label=Profile%20Stars&style=for-the-badge&logo=github" /> </p>
+
+Visit my GitHub profile to explore repositories, contributions, pinned projects, and development activity.
 
 ---
 
