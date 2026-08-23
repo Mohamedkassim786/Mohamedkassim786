@@ -2,9 +2,7 @@
 <h3 align="center">Computer Science Engineering Student | Full-Stack Developer | AI Enthusiast</h3>
 
 <p align="center">
-  CSE student at MIET Engineering College, Trichy, building real-world full-stack apps —
-  from a live cargo management platform for a Singapore-based company to an award-winning AI academic chatbot.
-  Seeking a Software Development Internship.
+  CSE student at MIET Engineering College, building real-world full‑stack apps — from a live cargo management platform to award-winning RAG-powered AI assistants. Seeking a Software Development Internship.
 </p>
 
 <p align="center">
@@ -18,54 +16,80 @@
 
 ### 🚀 About Me
 
-- 🎓 B.E. Computer Science Engineering @ **MIET Engineering College, Trichy** — CGPA 8.5/10 · Expected 2027
-- 💻 Built a **live cargo management platform** for a Singapore-based company, currently in production use
-- 🤖 Won **1st Prize** at an AI Chatbot Hackathon for a RAG-powered academic assistant
-- 🛠️ Currently building an **ERP system** for my college, handling attendance, timetables & student records
-- 🎯 Looking for: **Software Development Internship (Full-Stack)**
+- 🎓 B.E. Computer Science Engineering @ **MIET Engineering College, Trichy** — CGPA 8.5/10 · Expected 2027  
+- 💻 Built production/near-production systems (ERP, cargo management, restaurant & IoT) and AI assistants using local RAG pipelines  
+- 🤖 Winner — Hackathon 1st Prize for a RAG-powered academic chatbot (KnowSure / SonicMinds)  
+- 🎯 Looking for: **Software Development Internship (Full-Stack)**  
 - 📫 Reach me: **haafizkassim786@gmail.com**
 
 ---
 
-### 🧰 Tech Stack
-
+### 🧰 Tech Stack (strong / practiced)
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/Next/Vite-000000?style=for-the-badge&logo=vite&logoColor=white">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white">
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white">
+  <img src="https://img.shields.io/badge/FAISS-FF6F00?style=for-the-badge&logo=faiss&logoColor=white">
+  <img src="https://img.shields.io/badge/LLMs-Llama%2C%20Gemini-6f42c1?style=for-the-badge&logo=openai&logoColor=white">
+  <img src="https://img.shields.io/badge/Flutter-Dart-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+  <img src="https://img.shields.io/badge/ESP32-2E8B57?style=for-the-badge&logo=esp32&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </p>
 
 ---
 
-### 📌 Featured Projects
+### 📌 Featured Projects (selected from your repos)
 
-**🏫 MIET ERP Management System** `React.js · Node.js · PostgreSQL` — *Ongoing*
-Centralized ERP platform for academic and administrative management — handles student records, attendance, timetables, and staff management in one dashboard.
-🔗 [View Repo](https://github.com/Mohamedkassim786/project)
+- 🏫 MIET ERP Management System — React · Node.js · PostgreSQL · Prisma  
+  https://github.com/Mohamedkassim786/MIETERP  
+  Centralized college ERP: student records, attendance, timetables, exam & PDF generation. Frontend (React + Vite + Tailwind), backend (Node + Express + Prisma).
 
-**📦 Courier & Cargo Management Website** `React.js · Node.js` — *Live Project*
-Live cargo management platform deployed for a Singapore-based company — shipment tracking, order management, and real-time status updates.
-🔗 [View Repo](https://github.com/Mohamedkassim786/backend-for-courier)
+- 🧾 ShirtERP — Full Manufacturing ERP (Garment) — React (TypeScript) · Node · PostgreSQL · Prisma · Razorpay  
+  https://github.com/Mohamedkassim786/SHIRTERP  
+  End-to-end manufacturing workflows: BOM, production stages, inventory, double-entry accounting, payroll, and payment gateway integration.
 
-**🤖 AI Academic Chatbot** `Python · RAG (Retrieval-Augmented Generation)` — *🏆 1st Prize, AI Chatbot Hackathon*
-AI chatbot that helps students with academic queries, using RAG architecture to retrieve accurate, context-aware answers from academic documents.
-🔗 *Add repo link here*
+- 📦 Courier & Cargo Management Website — React · Node.js  
+  https://github.com/Mohamedkassim786/courier-website  
+  Live cargo management platform with shipment tracking, order management, and backend APIs used in production.
 
-> 💡 Tip: update the repo links above once you confirm which repo corresponds to which project — and add a short README to each so the "View Repo" click isn't a letdown.
+- 🤖 KnowSure / SonicMinds — RAG-powered Academic Chatbot (Hackathon winner) — Python · FastAPI · FAISS · Llama / Ollama / NVIDIA  
+  https://github.com/Mohamedkassim786/SonicMinds  
+  Evidence‑first RAG assistant: multi-format ingestion (.pdf/.docx), FAISS vector store, evidence gate & citation-first answers.
+
+- 🎓 Academia-AI — Private Academic Assistant — Streamlit · LangChain · FAISS · Ollama  
+  https://github.com/Mohamedkassim786/Academia-AI  
+  Local RAG pipeline for querying institutional knowledge with local LLMs (privacy-first).
+
+- 🍽️ Scan & Dine — Full-stack QR Dining & ESP32 integration — React (TS) · Node · Socket.IO · Prisma · ESP32  
+  https://github.com/Mohamedkassim786/Scan-Dine  
+  QR-based table sessions, kitchen display system, live WebSocket updates, ESP32 simulator & hardware endpoints.
+
+- 🚗 SafeRide — GPS-based Speed Limiter (Flutter + ESP32) — Flutter (Dart) · ESP32 firmware · OSM / SQLite  
+  https://github.com/Mohamedkassim786/GPSTRACKING-MOBILEAPP  
+  Flutter mobile app + ESP32 microcontroller for zone-based speed enforcement and event logging.
+
+- 🧾 Portfolio (personal site) — HTML/CSS/JS — link and repo for portfolio site  
+  https://github.com/Mohamedkassim786/Portfolio
 
 ---
 
-### 🏆 Certifications & Achievements
+> Tip: I pulled short descriptions directly from each project README so the "View Repo" click gives a clear expectation. Consider adding short screenshots, a demo link, and a one-line "how to run" for each featured repo to increase recruiter impact.
 
-- 🥇 First Prize — AI Chatbot Hackathon
-- 🌟 Best Outreach Award — MIET Engineering College
+---
+
+### 🏆 Achievements & Certifications
+
+- 🥇 1st Prize — AI Chatbot Hackathon (KnowSure / SonicMinds)  
+- 🌟 Best Outreach Award — MIET Engineering College  
 - 📜 Udemy — HTML & CSS Complete Course
 
 ---
@@ -79,4 +103,7 @@ AI chatbot that helps students with academic queries, using RAG architecture to 
 
 ---
 
-<p align="center"><i>Thanks for stopping by — always happy to connect and collaborate!</i></p>
+If you'd like, I can:
+- Commit this README.md to your profile repo (please confirm the repo name and branch), or
+- Trim / rearrange featured projects (e.g., highlight 3 top projects), or
+- Generate short one-line demo/info badges (live/demo/build status) for any repo that has a running demo or GH Actions.
