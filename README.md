@@ -103,7 +103,3 @@
 
 ---
 
-If you'd like, I can:
-- Commit this README.md to your profile repo (please confirm the repo name and branch), or
-- Trim / rearrange featured projects (e.g., highlight 3 top projects), or
-- Generate short one-line demo/info badges (live/demo/build status) for any repo that has a running demo or GH Actions.
